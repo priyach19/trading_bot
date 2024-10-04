@@ -1,0 +1,17 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-10-04T18:00:11.105Z"}
+{"level":"info","message":"Request: GET /report","timestamp":"2024-10-04T18:00:56.344Z"}
+{"level":"info","message":"Request: GET /stock-price/aapl","timestamp":"2024-10-04T18:01:28.077Z"}
+{"level":"info","message":"Fetched price for AAPL: $224.905","timestamp":"2024-10-04T18:01:29.062Z"}
+{"level":"info","message":"Request: GET /stock-price/aapl","timestamp":"2024-10-04T18:01:55.173Z"}
+{"level":"info","message":"Fetched price for AAPL: $224.905","timestamp":"2024-10-04T18:01:55.806Z"}
+{"level":"info","message":"Request: POST /buy/aapl","timestamp":"2024-10-04T18:03:41.725Z"}
+{"level":"info","message":"Fetched price for AAPL: $224.8351","timestamp":"2024-10-04T18:03:42.341Z"}
+{"level":"info","message":"Bought 44 shares of AAPL at $224.8351","timestamp":"2024-10-04T18:03:42.342Z"}
+{"level":"info","message":"Request: POST /buy/aapl","timestamp":"2024-10-04T18:03:50.385Z"}
+{"level":"info","message":"Fetched price for AAPL: $224.8351","timestamp":"2024-10-04T18:03:51.172Z"}
+{"level":"info","message":"Bought 0 shares of AAPL at $224.8351","timestamp":"2024-10-04T18:03:51.173Z"}
+{"level":"info","message":"Request: GET /report","timestamp":"2024-10-04T18:04:40.411Z"}
+{"level":"info","message":"Request: POST /sell/aapl","timestamp":"2024-10-04T18:07:15.731Z"}
+{"level":"info","message":"Fetched price for AAPL: $224.7733","timestamp":"2024-10-04T18:07:16.547Z"}
+{"level":"info","message":"Sold 44 shares of AAPL at $224.7733. Profit: $-2.719200000000228","timestamp":"2024-10-04T18:07:16.548Z"}
+{"level":"info","message":"Request: GET /report","timestamp":"2024-10-04T18:07:33.325Z"}
